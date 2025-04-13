@@ -1,2 +1,3 @@
 export default "Hello Page";
-import "./importer";
+import "./style.css";
+
